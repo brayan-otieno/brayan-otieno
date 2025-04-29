@@ -1,7 +1,7 @@
-## Hey 👋, I'm Brayan Otieno!  
+# ***<div align="center">Hey 👋, I'm Brayan Otieno!</div>***  
   
 
-<div align="right">
+<div align="center">
 <a href="https://github.com/brayan-otieno" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -37,7 +37,9 @@ An aspiring Cybersecurity Enthusiast and a Backend Web Developer, focusing on Py
 
 </td><td valign="top" width="50%">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<div align="right">
+<img src="" align="right" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
@@ -74,7 +76,7 @@ An aspiring Cybersecurity Enthusiast and a Backend Web Developer, focusing on Py
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan-otieno&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan-otieno&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
@@ -88,7 +90,9 @@ An aspiring Cybersecurity Enthusiast and a Backend Web Developer, focusing on Py
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=brayan-otieno&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brayan-otieno&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
