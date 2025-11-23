@@ -44,8 +44,8 @@ I believe every system tells a story, and I'm dedicated to finding its vulnerabi
 ### ⚡ **Rapidfire**
 
 *   **🔒 Fun Fact:** My ideal network is a fortress. Default-deny all the things.
-*   **📚 Currently Learning:** Advanced Penetration Testing & Cloud Security (AWS).
-*   **🎯 Goal:** OSCP | CCNA Security
+*   **📚 Currently Learning:** Advanced Penetration Testing & Web Security (AWS).
+*   **🎯 Goal:** CompTIA pentest+ | OSCP | CEH | 
 
 ---
 
