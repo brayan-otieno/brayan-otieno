@@ -26,7 +26,7 @@ I believe every system tells a story, and I'm dedicated to finding its vulnerabi
 | **🛡️ Defense**    | `Firewalls` `SIEM` `IDS/IPS` `WAF`                                                                                                                |
 | **⚔️ Offense**    | `Metasploit` `Burp Suite` `Nmap` `OWASP ZAP` `SQLmap`                                                                                             |
 | **🔧 Core Tech**  | `Python` `Bash` `Linux` `Docker` `Git` `XAMPP`                                                                                                    |
-| **☁️ Platforms**  | `AWS` `GCP`                                                                                                                                       |
+| **☁️ Platforms**  | `Tryhackme` `Hack the box`                                                                                                                                       |
 | **🗄️ Databases** | `MySQL` `MongoDB`                                                                                                                                 |
 | **🌐 Web**        | `Django` `Flask` `JavaScript` `HTML5` `CSS3` `Node.js` `PHP` `Bootstrap`                                                                          |
 
@@ -44,7 +44,7 @@ I believe every system tells a story, and I'm dedicated to finding its vulnerabi
 ### ⚡ **Rapidfire**
 
 *   **🔒 Fun Fact:** My ideal network is a fortress. Default-deny all the things.
-*   **📚 Currently Learning:** Advanced Penetration Testing & Web Security (AWS).
+*   **📚 Currently Learning:** Advanced Penetration Testing & Web Security.
 *   **🎯 Goal:** CompTIA pentest+ | OSCP | CEH | 
 
 ---
