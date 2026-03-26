@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Brayan Otieno | `@mrp4rr0t`</h1>
-<h3 align="center">Cybersecurity Practitioner | Python Enthusiast | Backend Developer</h3>
+<h3 align="center">Penetration Tester | Web Security | CTF Player | Software Developer</h3>
 
 ---
 
